@@ -26,7 +26,7 @@ const socials = [
   },
   {
     label: "GitHub",
-    value: "Rishabh21404",
+    value: "Rishabh2145",
     href: "https://github.com/Rishabh2145",
     icon: (
       <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
