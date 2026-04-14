@@ -246,7 +246,7 @@ export default function ChatSection() {
         }
     }, [open]);
 
-    const sendMessage = useCallback(async (text: string) => {
+    const sendMessage = async (text: string) => {
         const trimmed = text.trim();
         if (!trimmed || loading) return;
         setInput("");
@@ -304,7 +304,7 @@ export default function ChatSection() {
         } finally {
             setLoading(false);
         }
-    }, [loading, messages]);
+    };
 
     const handleKey = (e: React.KeyboardEvent) => {
         if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); sendMessage(input); }
