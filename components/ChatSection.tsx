@@ -214,12 +214,13 @@ function Chip({ label, onClick }: { label: string; onClick: () => void }) {
 }
 
 // ─── Suggested prompts ───────────────────────────────
-const SUGGESTED = [
-    "What is Rishabh's tech stack?",
-    "Tell me about his research",
-    "Is he open to internships?",
-    "What projects has he built?",
-];
+// const SUGGESTED = [
+//     "What is Rishabh's tech stack?",
+//     "Tell me about his research",
+//     "Is he open to internships?",
+//     "What projects has he built?",
+// ];
+const SUGGESTED = []
 
 // ─── Main component ──────────────────────────────────
 export default function ChatSection() {
