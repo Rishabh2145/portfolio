@@ -7,6 +7,7 @@ import ProjectsSection from "@/components/ProjectsSection";
 import SkillsSection from "@/components/SkillsSection";
 import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
+import ChatSection from "@/components/ChatSection";
 
 export default function Home() {
   return (
@@ -22,6 +23,7 @@ export default function Home() {
         <ContactSection />
       </main>
       <Footer />
+      <ChatSection/>
     </>
   );
 }

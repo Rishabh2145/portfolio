@@ -1,0 +1,213 @@
+# DOCUMENT_ID: rishabh_kumar_profile_v1
+# TYPE: user_profile
+# TAGS: [software_engineering, machine_learning, full_stack, computer_vision, transformers]
+
+---
+
+## SECTION: BASIC_INFO
+Name: Rishabh Kumar
+Email: rishabrbl2005@gmail.com
+Phone: +91 9264968987
+Alternate Phone: +91 9149497422
+Date of Birth: 21 March, 2005
+Location: India
+LinkedIn: https://www.linkedin.com/in/rishabh21404/
+GitHub: https://github.com/Rishabh2145
+Leetcode: https://leetcode.com/u/rishabh_21_4/
+
+Summary:
+Pre-final year Computer Science student at National Institute of Technology Srinagar with strong interests in Software Development, Problem Solving, and Machine Learning. Experienced in building scalable web applications and working with modern frameworks such as Next.js, React, and Node.js. Passionate about developing efficient and user-focused solutions and contributing as a software engineering intern.
+
+Source: :contentReference[oaicite:0]{index=0}
+
+---
+
+## SECTION: EDUCATION
+Institution: National Institute of Technology Srinagar
+Degree: B.Tech in Computer Science and Engineering
+Duration: Aug 2023 – 2027
+CGPA: 9.05/10
+
+Institution: Kendriya Vidyalaya Rae Bareli
+Qualification: Intermediate (PCM)
+Duration: Apr 2021 – Jun 2022
+Percentage: 91.60%
+
+Source: :contentReference[oaicite:1]{index=1}
+
+---
+
+## SECTION: EXPERIENCE
+
+### ROLE: Full-Stack Intern
+Company: Zonvoir Technologies Pvt. Ltd.
+Location: Lucknow
+Duration: Dec 2025 – Feb 2026
+
+Description:
+- Developed and maintained full-stack web applications
+- Worked on both frontend and backend features
+- Collaborated with cross-functional teams
+- Focused on scalable and efficient solutions
+
+---
+
+### ROLE: Research Intern
+Organization: National Institute of Technology Kurukshetra
+Duration: Jan 2025 – Feb 2025
+
+Description:
+- Worked on cattle behavior analysis using Deep Learning and Data Science
+- Developed Vi-TrackFormer:
+  - Hybrid CNN + Vision Transformer model
+  - Tasks: detection, tracking, classification of cow behavior from video data
+- Supervised by Dr. Pratishtha Verma
+
+---
+
+Source: :contentReference[oaicite:2]{index=2}
+
+---
+
+## SECTION: PROJECTS
+
+### PROJECT: Chat-Sphere
+Status: Ongoing
+Description:
+- Real-time chat application
+- Features:
+  - Secure authentication
+  - Instant messaging
+  - Cross-device responsive UI
+
+Tech Stack:
+- Next.js
+- Node.js
+- Socket.io
+- Firebase
+
+---
+
+### PROJECT: Electricity Department Portal
+Description:
+- Full-stack web application for electricity services
+- Features:
+  - User login system
+  - Complaint registration
+  - Bill generation
+  - New connection requests
+  - Admin panel for management
+
+Tech Stack:
+- HTML, CSS, SCSS
+- JavaScript
+- Node.js, Express.js
+- MySQL
+- EJS
+
+---
+
+### PROJECT: Line Follower Robot
+Description:
+- Designed robot using PID control
+- Implemented sensor-based feedback
+- Achieved smooth and accurate path tracking
+
+Tech Stack:
+- Arduino
+- Sensors
+- C Programming
+
+---
+
+Source: :contentReference[oaicite:3]{index=3}
+
+---
+
+## SECTION: SKILLS
+
+### PROGRAMMING_LANGUAGES
+- C++
+- C
+- JavaScript
+- Python
+- MySQL
+- HTML
+- CSS
+- JSON
+
+### TECHNOLOGIES & TOOLS
+- React
+- Node.js
+- Next.js
+- Express.js
+- SCSS
+- Unity
+- Arduino
+- GitHub
+- YOLO
+- Transformers
+
+---
+
+Source: :contentReference[oaicite:4]{index=4}
+
+---
+
+## SECTION: RESEARCH
+
+### TITLE: Vi-TrackFormer
+
+Description:
+A hybrid deep learning architecture combining CNN and Vision Transformers for:
+- Object detection
+- Multi-object tracking
+- Behavior classification
+
+Domain:
+- Computer Vision
+- Animal Behavior Analysis
+
+Use Case:
+- Automated livestock monitoring
+- Precision agriculture
+
+---
+
+Source: :contentReference[oaicite:5]{index=5}
+
+---
+
+## SECTION: RAG_METADATA
+
+keywords:
+- computer vision
+- deep learning
+- transformers
+- full stack development
+- node.js
+- next.js
+- tracking systems
+- behavior analysis
+
+embedding_hint:
+- chunk_size: 300-500 tokens
+- overlap: 50 tokens
+
+retrieval_priority:
+- research > projects > experience > skills
+
+---
+
+## SECTION: QA_READY_SNIPPETS
+
+Q: What is Vi-TrackFormer?
+A: Vi-TrackFormer is a hybrid CNN + Vision Transformer model designed for cow behavior detection, tracking, and classification from video data.
+
+Q: What technologies does Rishabh use?
+A: Rishabh uses technologies including Next.js, Node.js, React, Express.js, MySQL, YOLO, and Transformers.
+
+Q: What experience does Rishabh have?
+A: Rishabh has experience as a Full-Stack Intern at Zonvoir Technologies and as a Research Intern at NIT Kurukshetra working on deep learning-based cattle behavior analysis.
+
+---
