@@ -220,7 +220,7 @@ function Chip({ label, onClick }: { label: string; onClick: () => void }) {
 //     "Is he open to internships?",
 //     "What projects has he built?",
 // ];
-const SUGGESTED = []
+// const SUGGESTED = []
 
 // ─── Main component ──────────────────────────────────
 export default function ChatSection() {
@@ -458,9 +458,9 @@ export default function ChatSection() {
                                         gap: "6px",
                                         width: "100%", padding: "0 4px",
                                     }}>
-                                        {SUGGESTED.map((s) => (
+                                        {/* {SUGGESTED.map((s) => (
                                             <Chip key={s} label={s} onClick={() => sendMessage(s)} />
-                                        ))}
+                                        ))} */}
                                     </div>
                                 </div>
                             )}
@@ -496,9 +496,9 @@ export default function ChatSection() {
                                 padding: "0 12px 6px",
                                 flexWrap: "wrap", flexShrink: 0,
                             }}>
-                                {SUGGESTED.slice(0, 2).map((s) => (
+                                {/* {SUGGESTED.slice(0, 2).map((s) => (
                                     <Chip key={s} label={s} onClick={() => sendMessage(s)} />
-                                ))}
+                                ))} */}
                             </div>
                         )}
 
