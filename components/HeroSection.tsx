@@ -105,7 +105,7 @@ export default function HeroSection() {
 
         {/* Description */}
         <p className="font-sans text-fog text-lg max-w-xl leading-relaxed mb-12">
-          A pre-final year CS student at{" "}
+          A final year CS student at{" "}
           <span className="text-parchment font-medium">National Institute of Technology Srinagar</span>, crafting
           scalable software, training neural networks, and turning ideas into
           products that matter.

@@ -39,7 +39,7 @@ export default function AboutSection() {
                 better.
               </p>
               <p>
-                I&apos;m Rishabh, a third-year Computer Science student at{" "}
+                I&apos;m Rishabh, a final-year Computer Science student at{" "}
                 <span className="text-parchment">
                   National Institute of Technology, Srinagar
                 </span>
