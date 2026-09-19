@@ -21,12 +21,12 @@ const skillGroups = [
   {
     category: "ML / AI",
     icon: "◈",
-    skills: ["YOLO", "Vision Transformers", "CNN", "Deep Learning", "Data Science"],
+    skills: ["YOLO", "Vision Transformers", "CNN", "MobileNetV3", "Deep Learning", "Data Science"],
   },
   {
     category: "Tools & Hardware",
     icon: "◉",
-    skills: ["GitHub", "Arduino", "Unity", "MySQL", "PID Control"],
+    skills: ["GitHub", "JWT", "AWS", "Arduino", "Unity", "MySQL","MongoDB", "PID Control"],
   },
 ];
 

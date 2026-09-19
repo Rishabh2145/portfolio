@@ -5,14 +5,14 @@ import { useReveal } from "./useReveal";
 const projects = [
   {
     chapter: "03.A",
-    title: "Chat-Sphere",
-    subtitle: "Real-time Chat Platform",
+    title: "DoodleWar",
+    subtitle: "Real-Time Multiplayer Drawing Game",
     status: "Ongoing",
     description:
-      "A real-time chat application featuring secure user authentication, instant messaging, and a responsive UI built for seamless cross-device communication. Engineered for scale and speed.",
-    tech: ["NextJS", "Node.js", "Socket.io", "Firebase"],
+      "Designing a real-time multiplayer drawing-and-guessing game using Socket.IO for low-latency, event-driven communication between concurrent players.",
+    tech: ["NextJS", "Node.js", "Socket.io", "MobileNetV3","FastAPI", "JWT", "MongoDB"],
     link: "#",
-    icon: "💬",
+    icon: "🎮",
     accent: "from-blue-900/20 to-indigo-900/10",
   },
   {

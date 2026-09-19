@@ -3,7 +3,7 @@
 import { useReveal } from "./useReveal";
 
 const stats = [
-  { value: "9.05", label: "CGPA", unit: "/10" },
+  { value: "9.14", label: "CGPA", unit: "/10" },
   { value: "5+", label: "Projects Built", unit: "" },
   { value: "2", label: "Internships", unit: "" },
   { value: "2027", label: "Graduation", unit: "" },
